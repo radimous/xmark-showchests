@@ -1,5 +1,5 @@
 # xmark-showchests
-Makes chests visible to hunter/treasure goggles after the removal of bedrock<br>
+Makes chests visible to hunter/treasure goggles after the bedrock disappears
 Fully server side<br>
 drop contents of the datapack directory into your datapack directory<br>
 drop contents of config directory into your config directory or place the `x-mark_treasure1.nbt` in `config/the_vault/gen/1.0/structures/vault/rooms/challenge/`
